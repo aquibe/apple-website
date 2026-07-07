@@ -1,0 +1,13 @@
+i have  created a website with 3 pages :
+    1. Home page
+    2. Mac page
+    3. Ipad page
+
+
+-----
+todo
+    1. Add contents to home page
+    2. Add contents to mac page
+    3. Add contents to ipad page
+    4. Add css to website
+    5. Add more pages
